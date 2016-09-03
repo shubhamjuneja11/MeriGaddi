@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MeriGaddi</string>
+    <string name="search">Search</string>
+    <string name="budget">Budget</string>
+    <string name="brand">Brand</string>
+    <string name="home">Home</string>
+    <string name="fuel">Fuel</string>
+    <string name="compare">Compare</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
